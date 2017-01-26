@@ -1,0 +1,75 @@
+::-moz-selection {
+	background-color: #0066CC;
+	color: #FFFFFF;
+}
+
+::selection {
+	background-color: #0066CC;
+	color: #FFFFFF;
+}
+
+a {
+	color: #0066CC;
+}
+
+a:hover {
+	color: #0066CC;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+	color: #0066CC;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+h5 i {
+    color: #616161;
+}
+
+.row .row {
+	max-width: 75em;
+}
+
+#hero {
+	background-color: #0066CC;
+	background-image: url('../img/pexels-photo-241200.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+
+	padding: 100px 0 100px 0;
+	margin-bottom: 20px;
+	color: #FFFFFF;
+}
+
+#hero .row {
+	padding: 20px;
+}
+
+#hero h2 {
+	color: #FFFFFF;
+}
+
+#alert-bar {
+	background-color: #0066CC;
+	color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+}
+
+#alert-bar a {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+#alert-bar a:hover {
+	text-decoration: none;
+}
+
+#row-1 {
+	padding-top: 30px;
+}
