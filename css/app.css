@@ -73,3 +73,18 @@ h5 i {
 #row-1 {
 	padding-top: 30px;
 }
+
+#error-top {
+	margin-top: 50px;
+	text-align: center;
+	border-bottom: 1px solid #0066CC;
+	padding-bottom: 50px;
+}
+
+#error-top h2 {
+	font-size: 100px;
+}
+
+#error-content {
+	padding: 20px;
+}
